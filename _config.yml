@@ -1,0 +1,16 @@
+
+
+title: Baugarten
+description: The World-Building Game for Algebra & Geometry
+show_downloads: true
+google_analytics:
+github_repository: henryvw
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+gems:
+- jekyll-seo-tag

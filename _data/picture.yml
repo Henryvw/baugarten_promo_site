@@ -1,0 +1,16 @@
+# _data/picture.yml
+
+# These are used in several places. You likely want to enter whatever CSS media queries your site
+# uses here.
+media_queries:
+  mobile: 'max-width: 480px'
+  tablet: 'max-width: 768'
+  laptop: 'max-width: 1224px'
+  desktop: 'max-width: 1200'
+  wide: 'min-width: 1201'
+
+format_quality: 
+  jpg:
+    1000: 100
+    300: 100
+
