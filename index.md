@@ -9,26 +9,26 @@ layout: default
 # Baugarten: The World-Building Game for Algebra
 
 Baugarten is the first time geometry and algebra are your toolbox for growth in a world-building strategy game. Our gameplay never stops to make you do homework. You discover that formulas are key to more advantageously manage your settlement’s constrained resources. 
-
-* * *
-{% picture assets/images/slide_1.jpeg center %}
-
-{% picture assets/images/slide_3.jpeg attention %}
-
-{% picture assets/images/slide_4.jpeg attention %}
-{% picture assets/images/slide_5.jpeg attention %}
-{% picture assets/images/slide_6.jpeg attention %}
-
-{% picture assets/images/slide_7.jpeg attention %}
-{% picture assets/images/slide_8.jpeg attention %}
-{% picture assets/images/slide_9.jpeg attention %}
-{% picture assets/images/slide_10.jpeg attention %}
-{% picture assets/images/slide_11.jpeg attention %}
-{% picture assets/images/slide_12.jpeg attention %}
-{% picture assets/images/slide_13.jpeg attention %}
-
 * * *
 ## [Read the Essay During Covid That Started The Project](essay)
+
+<div class="container">
+<img src="assets/images/slide_1.jpeg" class="img-responsive img-rounded"/>
+<br>
+<br>
+<img src="assets/images/slide_9.jpeg" class="img-responsive img-rounded"/>
+<br>
+<img src="assets/images/slide_10.jpeg" class="img-responsive img-rounded"/>
+<br>
+<img src="assets/images/slide_11.jpeg" class="img-responsive img-rounded"/>
+<br>
+<img src="assets/images/slide_12.jpeg" class="img-responsive img-rounded"/>
+<br>
+<img src="assets/images/slide_13.jpeg" class="img-responsive img-rounded"/>
+<br>
+</div>
+
+* * *
 
 ### Are you a student, a teacher, a gamer, or just someone who finds our project exciting? 
 #### We'd love to hear from you.
