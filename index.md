@@ -2,13 +2,13 @@
 title: Baugarten
 layout: default
 ---
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674874714?h=f6cd7ffc3f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Baugarten: The World-Building Game That Teaches Algebra"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674874714?h=f6cd7ffc3f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Baugarten: The World-Building Game That Teaches STEM Formulas"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 * * *
 
-# Baugarten: The World-Building Game for Algebra
+# Baugarten: The World-Building Game for STEM Formulas
 
-Baugarten is the first time geometry and algebra are your toolbox for growth in a world-building strategy game. Our gameplay never stops to make you do homework. You discover that formulas are key to more advantageously manage your settlement’s constrained resources. 
+Baugarten is the first time STEM (Science, Technology and Math) formulas are your toolbox for growth in a world-building computer game. Our gameplay never stops to make you do homework. You discover that formulas from fields like algebra and geometry are key to more advantageously manage your settlement’s constrained resources. 
 * * *
 ## [Read the Essay During Covid That Started The Project](essay)
 
