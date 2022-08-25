@@ -8,23 +8,16 @@ layout: default
 
 # Baugarten: The World-Building Game for STEM Formulas
 
-Baugarten is the first time STEM (Science, Technology and Math) formulas are your toolbox for growth in a world-building computer game. Our gameplay never stops to make you do homework. You discover that formulas from fields like algebra and geometry are key to more advantageously manage your settlement’s constrained resources. 
+Baugarten is the first world-building EdTech game for STEM formulas. Imagine Minecraft or Sid Meier's Civilization for formulas. Playing Baugarten you discover that formulas are tools to manage your resources and build your city. 
 * * *
-## [Read the Essay During Covid That Started The Project](essay)
+## [Read the Essay That Started The Project](essay)
 
 <div class="container">
 <img src="assets/images/slide_1.jpeg" class="img-responsive img-rounded"/>
 <br>
+<img src="assets/images/slide_2.jpeg" class="img-responsive img-rounded"/>
 <br>
-<img src="assets/images/slide_9.jpeg" class="img-responsive img-rounded"/>
-<br>
-<img src="assets/images/slide_10.jpeg" class="img-responsive img-rounded"/>
-<br>
-<img src="assets/images/slide_11.jpeg" class="img-responsive img-rounded"/>
-<br>
-<img src="assets/images/slide_12.jpeg" class="img-responsive img-rounded"/>
-<br>
-<img src="assets/images/slide_13.jpeg" class="img-responsive img-rounded"/>
+<img src="assets/images/slide_3.jpeg" class="img-responsive img-rounded"/>
 <br>
 </div>
 
