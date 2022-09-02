@@ -6,6 +6,10 @@ show_downloads: true
 google_analytics:
 github_repository: henryvw
 
+# Copied from HvW site for the blog
+show_excerpts: true
+image: /images/baugarten_key.jpeg
+
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
