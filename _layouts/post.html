@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640">
+    <title>Baugarten: The World-Building Game for Algebra</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
+    <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
+
+    <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+
+
+{% include head-custom.html %}
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://www.henryvanwagenberg.com"></a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1><a style="color:white" href="/">Baugarten</a></h1>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      {% if site.show_downloads == false %}
+        <section id="downloads">
+          <span class="inner">
+            <a href="#main_content" class="zip"><em>Read</em>The Essay</a><a href="#baugarten-the-world-building-game-for-stem-formulas" class="tgz"><em>Contact</em>Us</a>
+          </span>
+        </section>
+      {% else %}
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      {% endif %}
+
+
+      <section id="main_content center-left-text" style="max-width: 500px" class="container center-left-text">
+        {{ content }}
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>A <a href="https://www.henryvanwagenberg.com">Henry van Wagenberg</a> & <a href="https://www.linkedin.com/in/geoffreymugford/">Geoffrey Mugford</a> Project</p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </footer>
+
+    </div>
+  </body>
+</html>
+

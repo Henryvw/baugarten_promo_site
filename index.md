@@ -10,16 +10,33 @@ layout: default
 
 Baugarten is the first world-building EdTech game for STEM formulas. Imagine Minecraft or Sid Meier's Civilization for formulas. Playing Baugarten you discover that formulas are tools to manage your resources and build your city. 
 * * *
-## [Read the Essay That Started The Project](essay)
+
+### Latest News
 
 <div class="container">
-<img src="assets/images/slide_1.jpeg" class="img-responsive img-rounded"/>
-<br>
-<img src="assets/images/slide_2.jpeg" class="img-responsive img-rounded"/>
-<br>
-<img src="assets/images/slide_3.jpeg" class="img-responsive img-rounded"/>
-<br>
+
+{%- if site.posts.size > 0 -%}
+  <ul class="post-list"> {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+
+{%- endif -%}
 </div>
+
+
+## [Read the Essay That Started The Project](essay)
 
 * * *
 
@@ -33,3 +50,7 @@ Baugarten is the first world-building EdTech game for STEM formulas. Imagine Min
 * Kreuzberg, Berlin
 * 10965, Deutschland
 <br>
+
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/Baugarten" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Baugarten', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Get news as our project develops</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+        
