@@ -45,11 +45,10 @@ Baugarten is the first world-building EdTech game for STEM formulas. Imagine Min
 
 ##### <a href="mailto: henry@baugarten.app">henry@baugarten.app</a>
 * +49 0176 473 89 458
-<br>
-<br>
 * Kreuzberg, Berlin
 * 10965, Deutschland
-<br>
+
+[![instagram_baugarten_link](/assets/images/insta_logo.png.webp){: style="width: 100px"}](https://www.instagram.com/baugarten_formula_game/)
 
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/Baugarten" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Baugarten', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Get news as our project develops</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
