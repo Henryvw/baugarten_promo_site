@@ -2,8 +2,8 @@
 layout: post
 title:  "Hannah Mattil of PlayTestCloud Playtests Baugarten"
 categories: playtest work formulas math games purpose 
-permalink: essays/playtestcloud-test-baugarten
-image: assets/images/essays/baugarten_harvest.jpeg
+permalink: updates/playtestcloud-test-baugarten
+image: assets/images/updates/baugarten_harvest.jpeg
 tags: playtest
 ---
 

@@ -2,16 +2,15 @@
 layout: post
 title:  "Why I Founded Baugarten"
 categories: work formulas math games purpose 
-permalink: essays/why-i-founded-baugarten
-image: assets/images/essays/baugarten_harvest.jpeg
+permalink: updates/why-i-founded-baugarten
+image: assets/images/updates/baugarten_harvest.jpeg
 tags: work definition words terminology
 ---
-
 Growing up I never learned what science, technology and math formulas and equations really are.
-
 ![baugarten_game_field](/assets/images/baugarten_key.jpeg){: style="width: 500px"}
 
 I blustered my way through all courses that dealt with formulas and equations: from algebra to physics, chemistry to economics, relying on a mix of charm and pleading to pass my courses. I got C's and D's on tests. Even F's.
+
 
 I remember puzzling over the symbol f(x). Even in my 3rd year of college, after physics, calculus and economics courses heavily reliant on this symbol, I didn't really know what it meant. I used it every day. I flew blind.
 
@@ -19,7 +18,7 @@ Years later, I became a software developer. At first it went OK. It seemed more 
 
 Programming demands the same skillset as math and science equation-solving. Georg Polya, a Hungarian mathematician from the golden age of Central European, German-speaking mathematics, describes this skillset in his classic work for math teachers: *How To Solve It*.
 
-![georg_polya](/assets/images/essays/georg_polya.png){: .align-right style="width: 500px"}
+![georg_polya](/assets/images/updates/georg_polya.png){: style="width: 500px"}
 
 What is the problem?
 
@@ -28,14 +27,16 @@ What is the condition (to satisfy a solution)?
 What are the data?
 
 Starting from such simple questions, Polya explicates the heart of the the one method whereby we humans go about solving all our problems: From fixing the plumbing of a kitchen-sink to debugging an intricate IT-system. Today in the United States, 75% of community college students fail a basic algebra test. Last month a high school physics teacher told me that at least half his students graduate never understanding formulaic problem-solving. 
-![baugarten_calculation_game](/assets/images/essays/baugarten_calculation.png){: .align-right style="width: 500px"}
+
+![baugarten_calculation_game](/assets/images/updates/baugarten_calculation.png){:  style="width: 500px"}
 
 The worldwide demand for STEM professionals expands, meanwhile, with each passing day. The world's economies strain to fill key STEM professions. $2.4 trillion is spent on education worldwide, and it's safe to say that STEM represents at least $1 trillion of that. 
 
 What if there was a game where, in creating settlements and managing your resources, each building, each crop, each tool, each process, each resource -- was the picture and bringing-to-life... of a formula?
 
 What if every tomato seed you planted, every windmill you built, every railroad track you laid, every gram of fertilizer you placed, every meter of wooden fence you dug, every cubic meter of water you stored, every centimeter of sailing cloth canvas you wove -- and the fish your settlers could catch to feed themselves as a result - you could manage... with a formula? 
-![baugarten_harvest_game](/assets/images/essays/baugarten_harvest.jpeg){: .align-right style="width: 500px"}
+
+![baugarten_harvest_game](/assets/images/updates/baugarten_harvest.jpeg){:  style="width: 500px"}
 
 What if every formula you encountered was a tool - a visual tool - that helped you to grow a farm and a city - and trade resources - in a multiplayer game with your classmates, your friends, your parents, your tutor and your STEM teacher - each of whom is building his or her own farm or city?
 

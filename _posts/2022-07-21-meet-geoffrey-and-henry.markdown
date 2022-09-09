@@ -2,7 +2,7 @@
 layout: post
 title:  "Meet Two of Baugarten's Founders: Geoffrey and Henry"
 categories: founders
-permalink: essays/meet-geoffrey-and-henry
+permalink: updates/meet-geoffrey-and-henry
 tags: playtest
 ---
 

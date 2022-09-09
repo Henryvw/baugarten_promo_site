@@ -51,7 +51,8 @@
       {% endif %}
 
       <section id="main_content" class="container center-left-text" style="max-width: 500px">
-      <div id="leftify" style="text-align: left"> 
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      <div id="leftify" style="text-align: left">
         {{ content }}
       </div>
       </section>
