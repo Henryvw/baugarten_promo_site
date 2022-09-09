@@ -13,7 +13,7 @@ Baugarten is the first world-building EdTech game for STEM formulas. Imagine Min
 
 ### Latest News
 
-<div class="container">
+<div class="container center" style="max-width: 500px">
 
 {%- if site.posts.size > 0 -%}
   <ul class="post-list"> {%- for post in site.posts -%}
@@ -26,7 +26,9 @@ Baugarten is the first world-building EdTech game for STEM formulas. Imagine Min
         </a>
       </h3>
       {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
+        <div id="leftify">
+          {{ post.excerpt }}
+        </div>
       {%- endif -%}
     </li>
     {%- endfor -%}

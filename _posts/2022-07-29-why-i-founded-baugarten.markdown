@@ -8,6 +8,7 @@ tags: work definition words terminology
 ---
 
 Growing up I never learned what science, technology and math formulas and equations really are.
+
 ![baugarten_game_field](/assets/images/baugarten_key.jpeg){: style="width: 500px"}
 
 I blustered my way through all courses that dealt with formulas and equations: from algebra to physics, chemistry to economics, relying on a mix of charm and pleading to pass my courses. I got C's and D's on tests. Even F's.
