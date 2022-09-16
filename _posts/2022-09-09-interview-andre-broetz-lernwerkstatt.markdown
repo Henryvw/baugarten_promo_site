@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Andre Broetz Interview - Baugarten"
-categories: customer interview
+title:  "Andre Broetz - Founder of Die Lernwerkstatt e.V. in Berlin - Interview"
+categories: customer interview playtest nachhilfe after-school education tutor
 permalink: updates/lernwerkstatt-customer-interview
-image: assets/images/updates/andre-lernwerkstatt.jpeg
-tags: playtest
+image: assets/images/updates/andre-lernwerkstatt.jpg
+tags: playtest nachhilfe after-school education tutor
 ---
 
-Hannah Mattil, a manager at PlayTestCloud - Berlin's largest playtesting company for games - playtests Baugarten and gives feedback on the gameplay. What's confusing? What's boring? How can we make Baugarten's gameplay clear and fun? 
+This week we interviewed Andre Broetz, founder of Die Lernwerkstatt e.V. - a nonprofit "Nachhilfe" (after-school tutoring) education organization in Berlin, about how he teaches math formulas and how he and his program want to use Baugarten.
 
-Watch the play test to learn more about how we're improving Baugarten through iteration and listening to feedback.
+![andre_broetz_lernwerkstatt](/assets/images/updates/andre-lernwerkstatt.jpg){: style="width: 500px"}
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/X5riJDo2WQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
-<br>
+
+
