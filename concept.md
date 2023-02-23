@@ -2,7 +2,7 @@
 layout: post
 title:  "Hannah Mattil helps Baugarten with Concept Work"
 categories: concept conceptual work work formulas math games purpose 
-permalink: concept-exploration
+permalink: concept
 image: assets/images/updates/baugarten_harvest.jpeg
 tags: playtest
 ---
